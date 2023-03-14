@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="rounded">
+        <item name="cornerRadius">100dp</item>
+        <item name="textAllCaps">false</item>
+        <item name="backgroundColor">@color/primaryLight</item>
+    </style>
+
+    <style name="roundedLess">
+        <item name="cornerRadius">12dp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="fab">
+        <item name="cornerRadius">16dp</item>
+    </style>
+
+    <style name="underlined">
+        <item name="android:textColor">@color/primaryLight</item>
+    </style>
+</resources>

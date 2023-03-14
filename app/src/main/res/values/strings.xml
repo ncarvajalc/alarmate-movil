@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alarmate</string>
+    <string name="title_home">Alarmas</string>
+    <string name="title_dashboard">Contactos de emergencia</string>
+    <string name="title_notifications">Iniciar sesión</string>
+    <string name="iniciar_sesion">Para agregar contactos de emergencia debes iniciar sesión</string>
+    <string name="title_activity_nav_inicio_sesion">NavInicioSesion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="isLoggedin">isLoggedin</string>
+    <string name="perfil">Perfil</string>
+</resources>
